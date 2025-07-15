@@ -33,21 +33,21 @@
 
 ## 💼 What I'm Working On
 
-- 🎯 Currently mastering **Spring Boot** for backend systems
-- 💅 Designing smooth UI/UX with **React** and **Next.js**
-- 🧪 Conducting QA testing for different financial solutions 
-- 📱 Developing mobile apps using **Flutter**
-- ⚙️ Practicing full-stack development with **Next.js**
-- 🤖 Deep-diving into **AI**, **Machine Learning**, and **Deep Learning**
+- Currently mastering **Spring Boot** for backend systems
+- Designing smooth UI/UX with **React** and **Next.js**
+- Conducting QA testing for different financial solutions 
+- Developing mobile apps using **Flutter**
+- Practicing full-stack development with **Next.js**
+- Deep-diving into **AI**, **Machine Learning**, and **Deep Learning**
 
 ---
 
 ## 🎯 Goals
 
-- 🔍 Master backend technologies and become a **Full-Stack Developer**
-- 🤖 Become a skilled **AI Engineer**
-- 💡 Build scalable and smart applications
-- 🌍 Contribute to open-source projects that matter
+- Master backend technologies and become a **Full-Stack Developer**
+- Become a skilled **AI Engineer**
+- Build scalable and smart applications
+- Contribute to open-source projects that matter
 
 ---
 
