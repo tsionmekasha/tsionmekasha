@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TsionMekasha</h1>
+<h1 align="center">Hi 👋, I'm Tsion Mekasha</h1>
 <h3 align="center">Software Engineering Student | Developer | Designer | Future AI Engineer</h3>
 
 ---
