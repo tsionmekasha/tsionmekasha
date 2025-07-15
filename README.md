@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm TsionMekasha</h1>
 <h3 align="center">Software Engineering Student | Developer | Designer | Future AI Engineer</h3>
+    
+         _“The best way to predict the future is to create it.” – Alan Kay_
 
 ---
 
@@ -68,6 +70,3 @@
 </p>
 
 ---
-
-
-_“The best way to predict the future is to create it.” – Alan Kay_
