@@ -60,11 +60,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsion123&show_icons=true&theme=radical" alt="Tsion's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tsionmekasha&show_icons=true&theme=radical" alt="Tsion's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsion123&theme=radical" alt="Tsion's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsionmekasha&theme=radical" alt="Tsion's GitHub Streak"/>
 </p>
 
 ---
