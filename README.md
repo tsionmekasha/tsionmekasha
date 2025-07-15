@@ -69,12 +69,5 @@
 
 ---
 
-## 🧮 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tsion123&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
 
 _“The best way to predict the future is to create it.” – Alan Kay_
